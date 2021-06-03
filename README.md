@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 
+### Desenvolvedor de software em formação 🌱
+### Amante do Saber :blue_book:
+### 
 <!--
 **ViniciusLisboa07/ViniciusLisboa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
