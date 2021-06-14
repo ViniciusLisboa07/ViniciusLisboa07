@@ -1,18 +1,12 @@
-### 
-### Desenvolvedor de software em formação 🌱
-### Amante do Saber :blue_book:
-### 
-<!--
-**ViniciusLisboa07/ViniciusLisboa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi 👋, I'm Vinícius Lisboa</h1>
+<h3 align="left">Software developer in training  🌱</h3>
+<p align="left">Desenvolvedor de software em formação🌱</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Lover of Knowledge 📘</h3>
+<p align="left">Amante do Saber 📘 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vin%c3%adcius-lisboa-6347971a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vin%c3%adcius-lisboa-6347971a9/" height="30" width="40" /></a>
+</p>
