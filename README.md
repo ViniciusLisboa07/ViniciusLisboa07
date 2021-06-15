@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Vinícius Lisboa</h1>
 <h3 align="left">Software developer in training  🌱</h3>
-<p align="left">Desenvolvedor de software em formação🌱</p>
+
 
 <h3 align="left">Lover of Knowledge 📘</h3>
-<p align="left">Amante do Saber 📘 </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
