@@ -1,10 +1,4 @@
 <h1 align="left">Hi 👋, I'm Vinícius Lisboa</h1>
-<h3 align="left">Software developer in training  🌱</h3>
-
-
-<h3 align="left">Lover of Knowledge 📘</h3>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
