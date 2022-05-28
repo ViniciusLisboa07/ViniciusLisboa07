@@ -1,8 +1,10 @@
 <h1 align="left">Hi 👋, I'm Vinícius Lisboa</h1>
 
-![ViniciusLisboa07 Status](https://github-readme-stats.vercel.app/api?username=viniciuslisboa07&theme=dark&show_icons=true)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslisboa07&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslisboa07&theme=dark&show_icons=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslisboa07&theme=dark&layout=compact"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
