@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-  hi there, my name is <b>vinicius</b>. <i>[ i like to create things ]</i> and use development to create
+  hi there, my name is <b>vinicius</b>. <i>[ i like to create things ]</i> and use software development to create
 </p>
 
 <hr>
