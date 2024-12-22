@@ -42,6 +42,5 @@ connect with me:
 
 <div>
   <a href="https://www.linkedin.com/in/vin%c3%adcius-lisboa-6347971a9/">linkedin</a><br>
-  <a href="https://twitter.com/lisboa10_lisboa" target="_blank">twitter</a><br>
   <a href="https://www.instagram.com/viniciuslisboaaa/" target="_blank">instagram</a><br>
 </div>
