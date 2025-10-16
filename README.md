@@ -34,7 +34,7 @@ i also know something of angular, nodejs, mongoDB and another techs that we see 
 
 <br>
 
-i'm usually writing something in: https://viniciuslisboa07.github.io/
+i'm usually writing something in: https://viniciuslisboa07.github.io/blog
 
 <br>
 
